@@ -3,8 +3,8 @@ main()
 function main() {
     // console.log(getMax(1,2,3,3,1,5,2)) // Exercise 1
     // console.log(reverse()) // Exercise 2
-    // console.log(uppercase("I am Daniel"))
-    console.log(invertCase("I am not Daniel"))
+    // console.log(uppercase("I am Daniel")) // Exercise 3
+    // console.log(invertCase("I am not Daniel")) // Exercise 4
 
     // Exercise 1
     function getMax(...nums) {
